@@ -63,6 +63,11 @@
         .footer-newsletter {
           margin-bottom: 30px;
         }
-      
+        .footer-bottom {
+            overflow: hidden;
+        }
+        .submit-btn {
+            overflow: hidden;
+        }
 
 }
